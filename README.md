@@ -1,4 +1,3 @@
-<!-- Header با انیمیشن تایپینگ خفن -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=4000&pause=1000&color=FF6AD5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Milad+%F0%9F%91%8B;Front-end+Developer;Pixel-perfect+UIs+%F0%9F%94%A5;From+idea+to+execution+%E2%9C%A8" alt="Typing SVG" />
   
@@ -16,7 +15,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 <br>
 
-<!-- Skills با افکت نئون + یک خطی (خیلی قشنگ میشه) -->
+<!-- Skills -->
 ## 🛠️ Skills
 
 <div align="center">
@@ -25,7 +24,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 <br>
 
-<!-- GitHub Stats + Top Languages + Streak (سه‌تایی خفن کنار هم) -->
+<!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
 <div align="center">
