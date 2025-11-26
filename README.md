@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=5000&pause=1500&color=FF6AD5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Milad+%F0%9F%91%8B;Front-end+Developer" alt="Typing SVG" />
  
   <p>
-    <em>From idea to execution — this is where my real journey unfolds.</em> ✨
+    <em>Front-end is my battlefield. Code is my weapon.</em> ⚔️
   </p>
 </div>
 
