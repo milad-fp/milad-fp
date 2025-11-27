@@ -51,6 +51,9 @@ I love turning ideas into real, functional interfaces and continuously improving
   <a href="https://github.com/milad-fp">
     <img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+  <a href="https://instagram.com/milafpn">
+    <img src="https://img.shields.io/badge/Instagram-CCFF00?style=for-the-badge&logo=instagram&logoColor=black" />
+  </a>
   <br><br>
 </div>
 <div align="center">
