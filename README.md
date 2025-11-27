@@ -12,7 +12,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 <br>
 
 ## 🗡️ Skills
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark&perline=9" height="50" />
 </div>
 <br>
