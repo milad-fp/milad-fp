@@ -22,14 +22,16 @@ I love turning ideas into real, functional interfaces and continuously improving
 </div>
 <br>
 
-## 📊 GitHub Stats
-<div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff" />
-</div>
+## GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=tokyonight&hide_border=true&border_radius=16&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&dates=aaaaaa" />
+<div align="left">
+
+  <!-- کارت اول: آمار کلی + گربه معروف + سبز نئونی -->
+  <img src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=CCFF00&hide_border=false&ring_color=CCFF00&curr_streak_bg_color=0d1117&curr_streak_border_color=CCFF00&side_labels_color=CCFF00&rank_icon=github" height="195px" alt="Milad's GitHub Stats"/>
+
+  <!-- کارت دوم: زبان‌ها + سبز نئونی -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&border_color=CCFF00&hide_border=false" height="195px" alt="Top Languages"/>
+
 </div>
 <br>
 
