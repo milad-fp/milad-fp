@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=4500&pause=1200&color=CCFF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Milad+%F0%9F%91%8B;Front-end+Developer" alt="Typing SVG" />
 
   <p>
-    <em>Front-end is my battlefield. Code is my weapon.</em> ⚔️
+    <em>Front-end is my battlefield. Code is my weapon.</em>
   </p>
 </div>
 
@@ -20,22 +20,27 @@ I love turning ideas into real, functional interfaces and continuously improving
 </div>
 
 <br>
+
 ## GitHub Stats
 <div align="center">
+  <!-- کارت اصلی + زبان‌ها -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&hide=stars,commits,prs,issues,contribs" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=tokyonight&hide_border=true&border_radius=16&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&dates=ffffff" />
+  <!-- استریک کاملاً سبز -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=tokyonight&hide_border=true&border_radius=16&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&dates=888888" />
 </div>
 
 <br>
 
+<!-- مار contribution -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
