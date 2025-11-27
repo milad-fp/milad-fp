@@ -21,17 +21,15 @@ I love turning ideas into real, functional interfaces and continuously improving
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark&perline=9" height="50" />
 </div>
 <br>
-## GitHub Stats
+
+## 📊 GitHub Stats
+<div align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff" />
+</div>
+
 <div align="center">
-
- 
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&theme=transparent&include_all_commits=true&count_private=true" />
-
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&hide=jupyter%20notebook,html,css&langs_count=8" />
-
-  
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&hide_border=true&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&currStreakNum=ffffff&sideNums=aaaaaa&dates=666666" />
-
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=tokyonight&hide_border=true&border_radius=16&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&dates=aaaaaa" />
 </div>
 <br>
 
