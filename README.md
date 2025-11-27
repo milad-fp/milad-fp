@@ -56,7 +56,7 @@ I love turning ideas into real, functional interfaces and continuously improving
   </a>
   <br><br>
 </div>
+
 <div align="center">
-  <br>
-  <samp><i>Currently building the web of tomorrow, one component at a time</i></samp>
+  <i>Currently building the web of tomorrow, one component at a time.</i> 💚
 </div>
