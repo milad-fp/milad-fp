@@ -9,8 +9,10 @@
 <br>
 
 ## About Me
-I'm Milad, a front-end developer passionate about creating **clean, modern, and user-focused** web experiences.  
+<div align="center">
+I'm Milad, a front-end developer passionate about creating **clean, modern, and user-focused** web experiences.<br>
 I love turning ideas into real, functional interfaces and continuously improving my skills every day.
+</div>
 
 <br>
 
