@@ -8,20 +8,20 @@
 
 <br>
 
-## About Me
+### ⚡ About Me
 I'm Milad, a front-end developer passionate about creating **clean, modern, and user-focused** web experiences.  
 I love turning ideas into real, functional interfaces and continuously improving my skills every day.
 
 <br>
 
-## Skills
+### 🗡️ Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,figma,vscode&theme=dark&perline=9" height="50" />
 </div>
 
 <br>
 
-## GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff" />
@@ -33,6 +33,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 <br>
 
+### 🐍💀 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -43,7 +44,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 <br>
 
-## Contact Me
+### 📡 Contact Me
 <div align="center">
   <a href="mailto:ferdospanahm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=black" />
@@ -52,8 +53,6 @@ I love turning ideas into real, functional interfaces and continuously improving
     <img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <br><br>
-  
-  <!-- این خط مهم است — عدد ویو کاملاً واضح -->
   <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=0d1117&style=flat-square&labelColor=CCFF00" />
 </div>
 
