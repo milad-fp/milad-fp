@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=4500&pause=1200&color=E90052&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Milad+%F0%9F%91%8B;Front-end+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=4500&pause=1200&color=FF0048&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Milad+%F0%9F%91%8B;Front-end+Developer" alt="Typing SVG" />
 
   <p>
     <em>Front-end is my battlefield. Code is my weapon.</em>
@@ -23,12 +23,12 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 ## GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=radical&hide_border=true&border_radius=16&bg_color=0d1117&title_color=E90052&text_color=ffffff&icon_color=E90052" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=radical&hide_border=true&border_radius=16&bg_color=0d1117&title_color=E90052&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=radical&hide_border=true&border_radius=16&bg_color=0d1117&title_color=FF0048&text_color=ffffff&icon_color=FF0048" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=radical&hide_border=true&border_radius=16&bg_color=0d1117&title_color=FF0048&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=radical&hide_border=true&border_radius=16&background=0d1117&stroke=E90052&ring=E90052&fire=E90052&currStreakLabel=E90052" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=radical&hide_border=true&border_radius=16&background=0d1117&stroke=FF0048&ring=FF0048&fire=FF0048&currStreakLabel=FF0048" />
 </div>
 
 <br>
@@ -47,13 +47,13 @@ I love turning ideas into real, functional interfaces and continuously improving
 ## Contact Me
 <div align="center">
   <a href="mailto:ferdospanahm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E90052?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF0048?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/milad-fp">
-    <img src="https://img.shields.io/badge/GitHub-E90052?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-FF0048?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=E90052&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=FF0048&style=for-the-badge" />
 </div>
 
 <div align="center">
