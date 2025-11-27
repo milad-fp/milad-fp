@@ -22,20 +22,17 @@ I love turning ideas into real, functional interfaces and continuously improving
 </div>
 <br>
 
-## GitHub Stats
+## 🚀 GitHub Stats
 
 <div align="left">
-
-  <!-- کارت اول: آمار کلی + گربه معروف + سبز نئونی -->
+  
   <img src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=CCFF00&hide_border=false&ring_color=CCFF00&curr_streak_bg_color=0d1117&curr_streak_border_color=CCFF00&side_labels_color=CCFF00&rank_icon=github" height="195px" alt="Milad's GitHub Stats"/>
 
-  <!-- کارت دوم: زبان‌ها + سبز نئونی -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&border_color=CCFF00&hide_border=false" height="195px" alt="Top Languages"/>
 
 </div>
 <br>
 
-<!-- مار contribution -->
 ## 🐍💀 Contribution Snake
 <div align="left">
   <picture>
