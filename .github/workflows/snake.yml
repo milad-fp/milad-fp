@@ -4,9 +4,14 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write  # این خط مهمه — اجازه push می‌ده
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
