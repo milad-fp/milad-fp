@@ -16,7 +16,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 ## Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,figma,vscode&theme=dark&perline=9" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark&perline=9" height="50" />
 </div>
 
 <br>
