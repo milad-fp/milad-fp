@@ -27,8 +27,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 </div>
 <br>
 
-<!-- مار contribution -->
-## 🐍💀 Contribution Snake
+<!-- مار contribution -->## 🐍💀 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
