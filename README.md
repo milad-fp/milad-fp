@@ -18,7 +18,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 <br>
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0d1117&title_color=CCFF00&text_color=ffffff" />
 </div>
@@ -39,7 +39,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 <br>
 
 ## 📡 Contact Me
-<div align="center">
+<div align="left">
   <a href="mailto:ferdospanahm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-CCFF00?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
