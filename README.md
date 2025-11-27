@@ -21,11 +21,14 @@ I love turning ideas into real, functional interfaces and continuously improving
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark&perline=9" height="50" />
 </div>
 <br>
-
 ## 📊 GitHub Stats
-<div align="left">
-  <img height="180" src="https://streak-stats.deno.dev?user=milad-fp&theme=tokyonight&hide_border=true&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=CCFF00&currStreakNum=ffffff&sideNums=aaaaaa&dates=666666" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&theme=radical&hide_border=true&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&layout=donut&size_weight=0.5&count_weight=0.5" />
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&hide=jupyter%20notebook" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=milad-fp&theme=radical&hide_border=true&background=0d1117&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00" />
 </div>
 <br>
 
