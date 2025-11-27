@@ -1,6 +1,8 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=0d1117&style=flat-square&labelColor=CCFF00" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=4500&pause=1200&color=CCFF00&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Milad+%F0%9F%91%8B;Front-end+Developer" alt="Typing SVG" />
-  <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=0d1117&style=flat-square&labelColor=CCFF00" align="right" />
   <p>
     <em>Front-end is my battlefield. Code is my weapon.</em> ⚔️
   </p>
