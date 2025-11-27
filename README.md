@@ -48,7 +48,6 @@ I love turning ideas into real, functional interfaces and continuously improving
     <img src="https://img.shields.io/badge/GitHub-CCFF00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=0d1117&style=flat-square&labelColor=CCFF00" />
 </div>
 <div align="center">
   <br>
