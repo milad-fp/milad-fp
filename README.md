@@ -38,7 +38,7 @@ I love turning ideas into real, functional interfaces and continuously improving
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/milad-fp/milad-fp/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="900" />
   </picture>
 </div>
 <br>
