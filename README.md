@@ -13,7 +13,7 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 ## 🗡️ Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark&perline=9" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,figma,vscode&theme=dark&perline=9" height="50" />
 </div>
 <br>
 
@@ -27,7 +27,8 @@ I love turning ideas into real, functional interfaces and continuously improving
 </div>
 <br>
 
-<!-- مار contribution -->## 🐍💀 Contribution Snake
+<!-- مار contribution -->
+## 🐍💀 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milad-fp/milad-fp/blob/output/github-contribution-grid-snake-dark.svg" />
