@@ -1,4 +1,4 @@
-<p align="right" style="margin-top: -50px;">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=0d1117&style=flat-square&labelColor=CCFF00" />
 </p>
 
