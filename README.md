@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/milad-fp/milad-fp/blob/main/banner.jpg" alt="Milad Ferdospanah" style="width: 100%; height: auto; max-width: 1800px;" />
+</div>
+
+<br>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=milad-fp&label=Profile+Views&color=0d1117&style=flat-square&labelColor=CCFF00" />
 </p>
