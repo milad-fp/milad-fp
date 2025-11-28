@@ -23,7 +23,6 @@ I love turning ideas into real, functional interfaces and continuously improving
 <br>
 
 ## 🚀 GitHub Stats
-
 <div align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=CCFF00&hide_border=false&ring_color=CCFF00&curr_streak_bg_color=0d1117&curr_streak_border_color=CCFF00&side_labels_color=CCFF00&rank_icon=github" height="195px" alt="Milad's GitHub Stats"/>
