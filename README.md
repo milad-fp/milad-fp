@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/milad-fp/milad-fp/blob/main/banner.jpeg" alt="Milad Ferdospanah" style="width: 100%; height: auto; max-width: 1800px;" />
+  <img src="https://github.com/milad-fp/milad-fp/blob/main/banner1.jpg" alt="Milad Ferdospanah" style="width: 100%; height: auto; max-width: 1800px;" />
 </div>
 
 <br>
