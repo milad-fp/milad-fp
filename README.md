@@ -24,17 +24,23 @@ I love turning ideas into real, functional interfaces and continuously improving
 
 ## 🗡️ Skills
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,figma,vscode&theme=dark&perline=9" height="50" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" />
 </div>
 <br>
 
 ## 🚀 GitHub Stats
 <div align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=milad-fp&show_icons=true&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&icon_color=CCFF00&border_color=CCFF00&hide_border=false&ring_color=CCFF00&curr_streak_bg_color=0d1117&curr_streak_border_color=CCFF00&side_labels_color=CCFF00&rank_icon=github" height="195px" alt="Milad's GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-fp&layout=compact&theme=transparent&bg_color=0d1117&title_color=CCFF00&text_color=ffffff&border_color=CCFF00&hide_border=false" height="195px" alt="Top Languages"/>
-
+  <img 
+    src="https://streak-stats.demolab.com?user=milad-fp&theme=dark&hide_border=true&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideNums=FFFFFF&sideLabels=CCFF00" 
+    height="180px" 
+  />
 </div>
 <br>
 
