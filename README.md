@@ -32,6 +32,7 @@ I love turning ideas into real, functional interfaces and continuously improving
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="48" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress-Dark.svg" width="48" />
 </div>
 <br>
 
